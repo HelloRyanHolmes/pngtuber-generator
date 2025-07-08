@@ -7,9 +7,9 @@ const Button = ({ children, ...props }) => (
 
 const layers = [
   { name: "Head", options: [
-    "/layers/Head/IMG_4051.png", "/layers/Head/IMG_4052.png", "/layers/Head/IMG_4053.png",
-    "/layers/Head/IMG_4054.png", "/layers/Head/IMG_4055.png", "/layers/Head/IMG_4056.png",
-    "/layers/Head/IMG_4057.png", "/layers/Head/IMG_4058.png", "/layers/Head/IMG_4059.png"
+    "/layers/Head/IMG_4051.PNG", "/layers/Head/IMG_4052.PNG", "/layers/Head/IMG_4053.PNG",
+    "/layers/Head/IMG_4054.PNG", "/layers/Head/IMG_4055.PNG", "/layers/Head/IMG_4056.PNG",
+    "/layers/Head/IMG_4057.PNG", "/layers/Head/IMG_4058.PNG", "/layers/Head/IMG_4059.PNG"
   ]},
   { name: "Eyes", options: [
     "/layers/Eyes/Untitled_Artwork14.png", "/layers/Eyes/Untitled_Artwork15.png", "/layers/Eyes/Untitled_Artwork16.png",
