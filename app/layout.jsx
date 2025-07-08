@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Taco Builder",
-  description: "Layer images to create your taco character",
+  title: "Peak PNGtuber Builder",
+  description: "Layer images to create your Peak character",
 };
 
 export default function RootLayout({ children }) {
