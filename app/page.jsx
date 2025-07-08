@@ -62,8 +62,8 @@ export default function Page() {
     const canvas = document.createElement("canvas");
     const ctx = canvas.getContext("2d");
     if (!ctx) return;
-    const width = 512;
-    const height = 512;
+    const width = 2048;
+    const height = 2048;
     canvas.width = width;
     canvas.height = height;
 
